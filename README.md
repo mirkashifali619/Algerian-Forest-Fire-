@@ -57,10 +57,10 @@ To run the web application:
 
 ## File Structure
 
-- `dataset/`: Contains the dataset used for training the model.
-- `models/`: Includes the saved Ridge Regression model and scaled feature data pickle file.
-- `template/`: Contain files related to the web application.
-- `utils/`: Contains utility functions used in the project.
+- `Dataset/`: Contains the dataset used for training the model.
+- `Model Training/` : Contains two files , in first we performed EDA on Algerian Forest Fire Dataset ,and in second performed Model Training on Cleaned Algerian Foresr Fire Datset
+- `Models/`: Includes the saved Ridge Regression model and scaled feature data pickle file.
+- `templates/`: Contain files related to the web application.
 - `app.py`: Main file for running the Flask application.
 - `info.txt`: Contains Information about the Algerian Foresr Fire Dataset
 
